@@ -64,7 +64,7 @@ print("5. Jumlah makanan adalah", len(makanan))
 print("6. Jumlah warna adalah", len(warna))
 
 
-
+   
 
 
 
