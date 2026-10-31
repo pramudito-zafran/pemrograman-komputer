@@ -1,5 +1,7 @@
 #Memasukkan nama-nama teman ke dalam variabel nama menggunakan list
-nama = ['adin', 'didan', 'bima']
-print(nama[0].title())
-print(nama[1].title())
-print(nama[2].title())
+nama = ['Adin', 'Didan', 'Bima']
+
+#Print nama-nama teman secara satu-satu dari list
+print(nama[0])
+print(nama[1])
+print(nama[2])
