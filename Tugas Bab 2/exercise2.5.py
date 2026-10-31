@@ -1,0 +1,1 @@
+print('Umar Bin Khattab pernah berkata, "Raihlah ilmu, dan dalam proses mencarinya, pelajarilah sikap tenang serta kesabaran"')
