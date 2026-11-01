@@ -1,0 +1,7 @@
+nama_nama = ['adam', 'udin', 'admin', 'erik', 'ais']
+
+for nama in nama_nama:
+    if nama == 'admin':
+        print("Halo admin, apakah kamu mau melihat laporan mengenai status saat ini?")
+    else:
+        print(f"Halo {nama}, terimakasih sudah masuk lagi!")
