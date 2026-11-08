@@ -1,0 +1,3 @@
+aku belajar print di Python
+aku belajar list di Python
+aku belajar tuple di Python
